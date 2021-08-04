@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Virtual Laboratory</string>
+    <string name="welcome_string_quotation">Without Laboratories men of science are soldiers without arms</string>
+    <string name="welcome_to_home_screen">Welcome to Home Screen!</string>
+    <string name="signout">signout</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="physics">Physics</string>
+    <string name="biology">Biology</string>
+    <string name="todo">TODO</string>
+</resources>

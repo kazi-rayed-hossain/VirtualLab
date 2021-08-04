@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952980243605",
+    "firebase_url": "https://virtual-laboratory-d4dca.firebaseio.com",
+    "project_id": "virtual-laboratory-d4dca",
+    "storage_bucket": "virtual-laboratory-d4dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952980243605:android:3e900bd7fb63dfdcfe879c",
+        "android_client_info": {
+          "package_name": "com.example.virtuallab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952980243605-8k8aoii6rt5c3plhfmi85uceur2ngqcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtuallab",
+            "certificate_hash": "e9a20b2e09792d10005770a69447ba3076df44c8"
+          }
+        },
+        {
+          "client_id": "952980243605-f87fueut8tuloqpk4nh8d8kd0djuunlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxT0Kix5Y2XQn3zdxS9T7CeP4Hyjadflw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952980243605-f87fueut8tuloqpk4nh8d8kd0djuunlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
